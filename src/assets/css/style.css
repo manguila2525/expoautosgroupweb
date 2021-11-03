@@ -1,0 +1,25 @@
+
+.dashboard__canvas{
+  display: block; width: 334px; height: 141px;
+}
+.titulo{
+  color: rgb(207, 34, 34);
+  background: black;
+  width: 50px;
+  height: 300px;
+}
+.cardPromotores{
+  width: 100%;
+
+}
+.cardPromotores__img{
+  height: 300px;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.cardCatalogo__img{
+  height: 300px;
+  object-fit: cover;
+  object-position: center center;
+}
